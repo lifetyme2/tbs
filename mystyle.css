@@ -1,0 +1,68 @@
+﻿header {
+   color: white;
+   background:blue;
+   font-family:"Georgia", serif;
+   font-style: italic;  
+}
+
+body {
+   background-color:white
+}
+     {
+   font-family:"Georgia";
+   font-size:30px;
+}
+
+a:link {
+  color: #0000cc;
+  font-style:italic;
+}
+
+a:visited {
+  color:#0000cc;
+}
+
+a:hover {
+  color:#ffcc00;
+}
+
+a:active {
+  color: #0000cc;
+}
+
+h1 {
+  color: white;
+  background: #0000cc;
+  text-shadow: 1px 1.5px 3px #595959;
+  font-style:italic;
+}
+
+p {
+  padding: 0px 20px;
+}
+
+li {
+  padding: 0px 20px;
+}
+
+div.topnav {
+  text-align: right;
+  padding-right: 30px;
+  word-spacing: 5px;
+  font-style: none;
+ 
+}
+
+b {
+  color: #ffcc00;
+  text-shadow: .75px .75px .5px #404040;
+}
+
+
+footer {
+  color:;
+  background:;
+}
+  
+
+   
