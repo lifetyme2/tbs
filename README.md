@@ -1,6 +1,6 @@
 # tbs
 
-i am learning to code via the gymnasium & my ill be posting my assignments here for sampling.
+i am learning to code via the gymnasium & i'll be posting my assignments here for sampling.
 so far i have learned basic html and basic styling through css
 im need a better grasp of utilizing things like inline, block & padding to style & adjust
 
